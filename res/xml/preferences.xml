@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreferences android:title="Height"
+        				 android:key="Height"
+        				 android:summary="Current height"></EditTextPreferences>
+    <EditTextPreferences android:title="Weight"
+        				 android:key="Weight"
+        				 android:summary="Current weight"></EditTextPreferences>
+    <EditTextPreferences android:title="BMI"
+        				 android:key="BMI"
+        				 android:summary="Current BMI"></EditTextPreferences>
+    
+    
+</PreferenceScreen>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Devoir1</string>
+    <string name="action_settings">Parametres</string>
+    
+    <string name="height">Hauteur: </string>
+	<string name="height_edit">188</string>
+	
+	<string name="weight">Poids: </string>
+	<string name="weight_edit">192</string>
+	
+	<string name="BMI">IMC: </string>
+	<string name="BMI_edit">24.9</string>
+	
+	<string name="change_height">Modifier la Hauteur</string>
+	<string name="change_weight">Modifier le Poids</string>
+	
+	<string name="calculate_BMI">Calculer</string>
+	
+	 <string name="Imperial">Hauteur Imperial</string>
+    <string name="ImperialWeight">Poids Imperial</string>
+</resources>
+
